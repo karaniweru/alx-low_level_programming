@@ -1,7 +1,10 @@
 #include "main.h"
 
 /**
- *
+ * swap_int - function to swap number
+ * @a: function parameter
+ * @b: function parameter
+ * Return: 0
  *
  */
 
