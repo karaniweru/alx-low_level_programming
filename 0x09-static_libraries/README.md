@@ -1,0 +1,1 @@
+This is on static libraries.
