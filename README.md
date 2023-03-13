@@ -1,1 +1,3 @@
-# alx-low_level_programming
+Debugging
+Doing more on pointers, arrays and strings.
+Recursions.
